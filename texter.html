@@ -1,0 +1,77 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>TLQ Texter</title>
+  <meta name="description" content="The Hallsley LQ Texter">
+  <meta name="author" content="LizbetMendoza">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css"/>
+  
+	<link rel="stylesheet" href="css/main.css?v=0.0.1"/>
+	
+</head>
+
+<body>
+	<!-- the trigger -->
+	<div class="curtain-menu-button" data-curtain-menu-button>
+	  <div class="curtain-menu-button-toggle">
+		 <div class="bar1"></div>
+		 <div class="bar2"></div>
+	  </div>	  
+	</div>
+	
+	<!-- Texter form -->
+	<div class="row column medium-6 large-5 align-center">
+		<form class="callout text-center">
+		  <h2>Send a text</h2>
+		  <div class="floated-label-wrapper">
+			 <label for="phone-number">Phone Number</label>
+			 <input type="text" id="phone-number" name="full name input" placeholder="Phone Number">
+		  </div>
+		  
+	<!--  Drop downs -->
+	<select>
+		<option value="all">All</option>
+		<option value="lizbetmendoza">Lizbet Mendoza</option>
+	</select>
+		  
+		  
+		  
+		  <div class="floated-label-wrapper">
+			 <label for="message">Type your message here</label>
+			 <textarea name="message" id="message" rows="12" placeholder="Type your message here"></textarea>
+		  </div>
+		  <input class="button expanded" type="submit" value="Send it!">
+		</form>
+	</div>
+		
+	<!-- the menu  -->
+	<div class="curtain-menu">
+	  <div class="curtain"></div>
+	  <div class="curtain"></div>
+	  <div class="curtain"></div>
+	  <div class="curtain-menu-wrapper">
+		 <ul class="curtain-menu-list menu vertical">
+			<li><a href="#">Messenger</a></li>
+			<li><a href="#">History</a></li>
+			<li><a href="#">Recipients</a></li>
+			<li><a href="#">Logout</a></li>
+		 </ul>
+	  </div>
+	</div>
+
+	
+	<script src="js/main.js"></script>
+	  
+  
+</body>
+</html>

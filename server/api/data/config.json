@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Igor Vargas",
+    "phone": "+17576857417",
+    "status": "active",
+    "nick": "subzero",
+    "going": ""
+  },
+  {
+    "name": "Lizbet Mendoza",
+    "phone": "+17573188659",
+    "status": "inactive",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Mike Rogers",
+    "phone": "+18048697714",
+    "status": "inactive",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Matt Donaldson",
+    "phone": "+18043017150",
+    "status": "inactive",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Jim Fisher",
+    "phone": "+18048733771",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Anish Thomas",
+    "phone": "+13529788562",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Chris Sims",
+    "phone": "+17577499211",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Brian Swagger",
+    "phone": "+18045648073",
+    "status": "active",
+    "nick": "KillSwitch",
+    "going": ""
+  },
+  {
+    "name": "Don Davis",
+    "phone": "+18046178443",
+    "status": "active",
+    "nick": "2quick",
+    "going": ""
+  },
+  {
+    "name": "Todd Ramkey",
+    "phone": "+18044020664",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Chris Mangano",
+    "phone": "+18046914349",
+    "status": "active",
+    "nick": "Cupcake",
+    "going": ""
+  },
+  {
+    "name": "Chris Gaskell",
+    "phone": "+19546503473",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Jeff Paris",
+    "phone": "+18046414110",
+    "status": "inactive",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "David Harris",
+    "phone": "+18045034130",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Chris",
+    "phone": "+17038673003",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Nicholas Fessick",
+    "phone": "+18048405836",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  },
+  {
+    "name": "Ben Muh",
+    "phone": "+18048789376",
+    "status": "active",
+    "nick": "nick?",
+    "going": ""
+  }  
+  
+]
